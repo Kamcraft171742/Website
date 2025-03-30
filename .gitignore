@@ -28,19 +28,19 @@
       <div class="video-container">
         <div class="video">
           <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-            <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Video Thumbnail">
+            <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Video 1 Thumbnail">
             <p>Video 1</p>
           </a>
         </div>
         <div class="video">
           <a href="https://www.youtube.com/watch?v=kJQP7kiw5Fk" target="_blank">
-            <img src="https://img.youtube.com/vi/kJQP7kiw5Fk/0.jpg" alt="Video Thumbnail">
+            <img src="https://img.youtube.com/vi/kJQP7kiw5Fk/0.jpg" alt="Video 2 Thumbnail">
             <p>Video 2</p>
           </a>
         </div>
         <div class="video">
           <a href="https://www.youtube.com/watch?v=3JZ_D3ELwOQ" target="_blank">
-            <img src="https://img.youtube.com/vi/3JZ_D3ELwOQ/0.jpg" alt="Video Thumbnail">
+            <img src="https://img.youtube.com/vi/3JZ_D3ELwOQ/0.jpg" alt="Video 3 Thumbnail">
             <p>Video 3</p>
           </a>
         </div>
